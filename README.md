@@ -8,6 +8,6 @@ This project consists of an analysis of some data pertaining to the heart record
 
 ### Libraries used
 
--pandas
--numpy
--matplotlib
+- pandas
+- numpy
+- matplotlib
