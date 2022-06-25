@@ -1,4 +1,4 @@
-# Heart Disease Analysis 
+# Exploratory Data Analysis 
 
 ## Introduction
 
@@ -13,15 +13,3 @@ This project consists of an analysis of some data pertaining to the heart record
 - matplotlib
 - sklearn
 
-## Heart Disease Classifier
-
-
-End to end  workflow
-
-0. Getting the data ready
-1. Choosing the right model
-2. fit the model/algorithm and use it make predictions to the data
-3. Evaluate the model
-4 . Improve a model
-5. Save and load a trained model
-6. Put it all together.
